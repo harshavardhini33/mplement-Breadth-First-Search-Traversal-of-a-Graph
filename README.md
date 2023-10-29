@@ -1,7 +1,7 @@
 # EXP02-Implement Breadth First Search Traversal of a Graph
 ```
-NAME: Aashima Nazreen Sayeed S
-REG NO: 212221240002
+NAME: Harshavardhini M
+REG NO: 212221240015
 ```
 ## AIM:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
